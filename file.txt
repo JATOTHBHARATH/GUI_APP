@@ -1,0 +1,4 @@
+bharath is 23 years old, email is bharath@gmail.com, gender is male,type is student and Not Subscribed
+nikhil is 34 years old, email is nikhil@gmail.com, gender is male,type is Teacher and Yes Subscribed
+hf is dh years old, email is sdth, gender is male,type is student and Yes Subscribed
+sdh is dh years old, email is dh, gender is male,type is Teacher and Yes Subscribed
